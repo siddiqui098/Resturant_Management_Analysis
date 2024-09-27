@@ -12,8 +12,7 @@ Initially, there were null values in the item_id column because the data was sto
 2.  Revenue trends showed that march  month with revenue 1760971. This month generated significantly higher revenue
 3.  The rush hours analysis indicated that the restaurant experiences peak orders during 12, 1, 4, 5, 6 PM. 
 4.  The most expensive dish on the menu is Shrimp Scampi and The least expensive dish is Edamame . 
-5.  The most popular category is Italyan and the least popular category is American food.
-6.  
+5.  The most popular category is Italyan and the least popular category is American food.  
 # Recommendations
 1.  Based on the popularity of certain items, consider introducing new variations or complementary dishes. For high-performing items, premium versions could be offered to increase the average order value.
 2.  Given the identified rush hours, ensure that the restaurant is adequately staffed during these times to handle the increased order volume efficiently. Consider implementing shift changes that align with these peak periods.
